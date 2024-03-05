@@ -17,3 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Links
+https://appmaking.com/flutter-drawer-example/
+https://api.flutter.dev/flutter/material/Icons-class.html
+
+## Capturas
+![image](https://github.com/DAHolguin/p9_6J/assets/143548047/12a96e61-bf2d-427e-b7c8-7f3343e6d9fd)
+![image](https://github.com/DAHolguin/p9_6J/assets/143548047/a646a980-f36c-4a17-bc3d-6975f87b4500)
+
+
